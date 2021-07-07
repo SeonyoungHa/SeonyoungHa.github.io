@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+하선영의 홈페이지! OK!!
+
 You can use the [editor on GitHub](https://github.com/SeonyoungHa/SeonyoungHa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
